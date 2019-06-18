@@ -1,2 +1,2 @@
 # jenkins-demo
-forked from cnych/jenkins-demo
+some demo project for jenkins
